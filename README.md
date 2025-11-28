@@ -1,5 +1,3 @@
-GitHub Copilot Chat Assistant — README for gus-hub-tech/pine-city-zoo-app
-
 # Pine City Zoo — Static Web App
 
 A lightweight, static website that presents Pine City Zoo content (exhibits, animals, places, and visitor info). The project is built with plain HTML and CSS and is ready to run as a static site (locally or via GitHub Pages).
@@ -17,11 +15,6 @@ This repository contains a multi-page static site that showcases animals, attrac
 ## Tech stack
 - HTML5 — site structure and content
 - CSS3 — styling and layout
-- Optional/Recommended additions (not present but compatible):
-  - JavaScript (for client-side interactivity, form handling, enhancements)
-  - Static hosting (GitHub Pages, Netlify, Vercel)
-  - Image optimization tools (imagemin, Squoosh)
-  - Build tools (optional) like a static site generator, or simple bundlers if project grows
 
 ## Repository file map (high-level)
 Files and folders present in the repository (representative list):
@@ -83,7 +76,7 @@ This is ready to host on static hosting platforms:
 - Add a LICENSE file to specify reuse terms.
 
 ## Contributing
-- If they want to contribute, they can:
+- If you want to contribute, you can:
   - Fork the repository
   - Make changes on a feature branch
   - Open a pull request with a clear description of the change
@@ -92,13 +85,7 @@ This is ready to host on static hosting platforms:
   - Consolidate repeated markup into templates
   - Add responsive design improvements or mobile-first breakpoints
 
-## Issues & support
-- Use the repository Issues tab to report bugs, request features, or ask questions.
-- When filing an issue, include:
-  - Steps to reproduce
-  - Browser and OS used
-  - Expected vs actual behavior
-  - Screenshots where helpful
+
 
 ## License
 No license file detected. Add a LICENSE to declare reuse terms (MIT, Apache 2.0, or another license as desired).
@@ -109,7 +96,3 @@ No license file detected. Add a LICENSE to declare reuse terms (MIT, Apache 2.0,
 
 ---
 
-If you'd like, I can:
-- Generate a ready-to-use, polished README.md file formatted for this repo and push it for you.
-- Create a checklist PR template for accessibility and SEO improvements.
-- Convert the site into a simple Eleventy/Jekyll project to reduce duplication across pages.
